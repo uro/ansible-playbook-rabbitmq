@@ -1,5 +1,7 @@
 # Announce
 
+### I forked this repository to enable ansible2 support
+
 Long time no update. I'm back on this playbook again, I'll be merging fixes (url,
 key checking,...) in master and releasing a working tagged version.
 
